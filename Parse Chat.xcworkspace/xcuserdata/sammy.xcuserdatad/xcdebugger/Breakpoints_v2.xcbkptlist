@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Parse Chat/LoginViewController.swift"
+            timestampString = "539587200.679213"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "LoginViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Parse_Chat.LoginViewController.username.getter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UITextField&gt;"
+                  moduleName = "Parse Chat"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sammy/Desktop/Projects/CS490/Parse%20Chat/Parse%20Chat/LoginViewController.swift"
+                  timestampString = "538965816.0220701"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "79">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Parse_Chat.LoginViewController.username.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UITextField&gt;"
+                  moduleName = "Parse Chat"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sammy/Desktop/Projects/CS490/Parse%20Chat/Parse%20Chat/LoginViewController.swift"
+                  timestampString = "538965816.025069"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "86">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Parse_Chat.LoginViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; Parse_Chat.LoginViewController"
+                  moduleName = "Parse Chat"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sammy/Desktop/Projects/CS490/Parse%20Chat/Parse%20Chat/LoginViewController.swift"
+                  timestampString = "538965816.0290641"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "236">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Parse_Chat.LoginViewController.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;Parse_Chat.LoginViewController&gt;"
+                  moduleName = "Parse Chat"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sammy/Desktop/Projects/CS490/Parse%20Chat/Parse%20Chat/LoginViewController.swift"
+                  timestampString = "538965816.031775"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "144">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
